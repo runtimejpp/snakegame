@@ -4,7 +4,7 @@
         let c = 15;
         let d = add(a, b);
 
-        println!("{}", sum);
+        println!("{}", d);
 
     }
 
