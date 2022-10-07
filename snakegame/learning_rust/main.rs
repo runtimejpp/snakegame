@@ -4,7 +4,7 @@
       let custom_number = 98_000;
       let hex_number = 0xfa;
       let binary_number = 0b0010_1011;
-      let byte_count = b'A';
+      let byte_number = b'A';
       
       println!("{}", custom_number);
       println!("{}", hex_number);
